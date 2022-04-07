@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: adria@collserola.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: adriachalaux
 github_username: adriacollserola
 theme: minima
